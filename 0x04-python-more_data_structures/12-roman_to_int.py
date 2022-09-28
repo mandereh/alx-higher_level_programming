@@ -14,4 +14,3 @@ def roman_to_int(roman_string):
         else:
             total -= romans.get(roman_string[i])
     return total
-
