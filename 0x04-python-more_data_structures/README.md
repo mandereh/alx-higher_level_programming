@@ -14,4 +14,5 @@
 100-weight_average.py -> Write a function that returns the weighted average of all integers tuple (<score>, <weight>)
 101-square_matrix_map.py -> Write a function that computes the square value of all integers of a matrix using map
 102-complex_delete.py -> Write a function that deletes keys with a specific value in a dictionary.
+103-python.c -> Create two C functions that print some basic info about Python lists and Python bytes objects.
 
