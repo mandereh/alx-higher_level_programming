@@ -8,3 +8,4 @@
 7-rectangle.py -> Write a class Rectangle that defines a rectangle by: (based on 6-rectangle.py)
 8-rectangle.py -> Write a class Rectangle that defines a rectangle by: (based on 7-rectangle.py)
 9-rectangle.py -> Write a class Rectangle that defines a rectangle by: (based on 8-rectangle.py)
+101-nqueens.py -> The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem.
