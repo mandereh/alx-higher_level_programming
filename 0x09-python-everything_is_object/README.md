@@ -4,4 +4,5 @@
 3-answer.txt -> In the following code, do a and b point to the same object? Answer with Yes or No.
 4-answer.txt -> In the following code, do a and b point to the same object? Answer with Yes or No.
 5-answer.txt -> In the following code, do a and b point to the same object? Answer with Yes or No.
+6-answer.txt -> What do these 3 lines print?
 
