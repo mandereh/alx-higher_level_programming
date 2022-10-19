@@ -8,4 +8,5 @@
 100-safe_print_integer_err.py -> Write a function that prints an integer.
 101-safe_function.py -> Write a function that executes a function safely.
 102-magic_calculation.py -> Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+103-python.c -> Create three C functions that print some basic info about Python lists, Python bytes an Python float objects.
 
